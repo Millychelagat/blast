@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.header {
+  padding: 80px;
+  text-align: center;
+  background-image: url('https://media.istockphoto.com/vectors/abstract-technology-background-with-red-and-black-metal-texture-on-vector-id1276465929?k=20&m=1276465929&s=612x612&w=0&h=3_XvIp9SHf2EMn8jnDfNvIoKggtylQebPC1knlgK6i4=');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #e5ccc9;
+  }
+
+.header 1 {
+   font-size: 70px;
+}   
+  
+ .topnav {
+  overflow:hidden;
+  background-color: #8b0000;
+}
+
+.topnav a {
+ float: left;
+ color: #fffafa;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+ font-size: 20px;
+}
+
+.topnav a:hover {
+ background-color: #ff4500;
+ color:black;
+}
+
+.topnav a.active {
+ background-color: #e9967a;
+ color:white;
+} 
